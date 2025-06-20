@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\pndia\\Documents\\GitHub\\ZuperZWXDrawingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7550694-254D-4D18-9777-E06D4E8A8119}|ZuperZWXDrawingSystem\\ZuperZWXDrawingSystem.csproj|d:\\users\\pndia\\documents\\github\\zuperzwxdrawingsystem\\zuperzwxdrawingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7550694-254D-4D18-9777-E06D4E8A8119}|ZuperZWXDrawingSystem\\ZuperZWXDrawingSystem.csproj|solutionrelative:zuperzwxdrawingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46349D6A-5064-43AA-B3B9-D3F42774393D}|ZuperZWXDrawingSystemBackend\\ZuperZWXDrawingSystemBackend.csproj|d:\\users\\pndia\\documents\\github\\zuperzwxdrawingsystem\\zuperzwxdrawingsystembackend\\graphicroutinemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46349D6A-5064-43AA-B3B9-D3F42774393D}|ZuperZWXDrawingSystemBackend\\ZuperZWXDrawingSystemBackend.csproj|solutionrelative:zuperzwxdrawingsystembackend\\graphicroutinemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46349D6A-5064-43AA-B3B9-D3F42774393D}|ZuperZWXDrawingSystemBackend\\ZuperZWXDrawingSystemBackend.csproj|d:\\users\\pndia\\documents\\github\\zuperzwxdrawingsystem\\zuperzwxdrawingsystembackend\\spritetileinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46349D6A-5064-43AA-B3B9-D3F42774393D}|ZuperZWXDrawingSystemBackend\\ZuperZWXDrawingSystemBackend.csproj|solutionrelative:zuperzwxdrawingsystembackend\\spritetileinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46349D6A-5064-43AA-B3B9-D3F42774393D}|ZuperZWXDrawingSystemBackend\\ZuperZWXDrawingSystemBackend.csproj|d:\\users\\pndia\\documents\\github\\zuperzwxdrawingsystem\\zuperzwxdrawingsystembackend\\drawinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46349D6A-5064-43AA-B3B9-D3F42774393D}|ZuperZWXDrawingSystemBackend\\ZuperZWXDrawingSystemBackend.csproj|solutionrelative:zuperzwxdrawingsystembackend\\drawinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E441A0FD-C377-44B9-911F-B0CA97E4A938}|FormatReader\\FormatReader.csproj|d:\\users\\pndia\\documents\\github\\zuperzwxdrawingsystem\\formatreader\\tablereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E441A0FD-C377-44B9-911F-B0CA97E4A938}|FormatReader\\FormatReader.csproj|solutionrelative:formatreader\\tablereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46349D6A-5064-43AA-B3B9-D3F42774393D}|ZuperZWXDrawingSystemBackend\\ZuperZWXDrawingSystemBackend.csproj|d:\\users\\pndia\\documents\\github\\zuperzwxdrawingsystem\\zuperzwxdrawingsystembackend\\drawinforeader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46349D6A-5064-43AA-B3B9-D3F42774393D}|ZuperZWXDrawingSystemBackend\\ZuperZWXDrawingSystemBackend.csproj|solutionrelative:zuperzwxdrawingsystembackend\\drawinforeader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46349D6A-5064-43AA-B3B9-D3F42774393D}|ZuperZWXDrawingSystemBackend\\ZuperZWXDrawingSystemBackend.csproj|d:\\users\\pndia\\documents\\github\\zuperzwxdrawingsystem\\zuperzwxdrawingsystembackend\\spritetileproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46349D6A-5064-43AA-B3B9-D3F42774393D}|ZuperZWXDrawingSystemBackend\\ZuperZWXDrawingSystemBackend.csproj|solutionrelative:zuperzwxdrawingsystembackend\\spritetileproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E441A0FD-C377-44B9-911F-B0CA97E4A938}|FormatReader\\FormatReader.csproj|d:\\users\\pndia\\documents\\github\\zuperzwxdrawingsystem\\formatreader\\formatreader.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E441A0FD-C377-44B9-911F-B0CA97E4A938}|FormatReader\\FormatReader.csproj|solutionrelative:formatreader\\formatreader.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DrawInfo.cs",
+              "DocumentMoniker": "D:\\Users\\pndia\\Documents\\GitHub\\ZuperZWXDrawingSystem\\ZuperZWXDrawingSystemBackend\\DrawInfo.cs",
+              "RelativeDocumentMoniker": "ZuperZWXDrawingSystemBackend\\DrawInfo.cs",
+              "ToolTip": "D:\\Users\\pndia\\Documents\\GitHub\\ZuperZWXDrawingSystem\\ZuperZWXDrawingSystemBackend\\DrawInfo.cs",
+              "RelativeToolTip": "ZuperZWXDrawingSystemBackend\\DrawInfo.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAAwHAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T23:00:32.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SpriteTileInfo.cs",
+              "DocumentMoniker": "D:\\Users\\pndia\\Documents\\GitHub\\ZuperZWXDrawingSystem\\ZuperZWXDrawingSystemBackend\\SpriteTileInfo.cs",
+              "RelativeDocumentMoniker": "ZuperZWXDrawingSystemBackend\\SpriteTileInfo.cs",
+              "ToolTip": "D:\\Users\\pndia\\Documents\\GitHub\\ZuperZWXDrawingSystem\\ZuperZWXDrawingSystemBackend\\SpriteTileInfo.cs",
+              "RelativeToolTip": "ZuperZWXDrawingSystemBackend\\SpriteTileInfo.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T23:01:56.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GraphicRoutineManager.cs",
+              "DocumentMoniker": "D:\\Users\\pndia\\Documents\\GitHub\\ZuperZWXDrawingSystem\\ZuperZWXDrawingSystemBackend\\GraphicRoutineManager.cs",
+              "RelativeDocumentMoniker": "ZuperZWXDrawingSystemBackend\\GraphicRoutineManager.cs",
+              "ToolTip": "D:\\Users\\pndia\\Documents\\GitHub\\ZuperZWXDrawingSystem\\ZuperZWXDrawingSystemBackend\\GraphicRoutineManager.cs",
+              "RelativeToolTip": "ZuperZWXDrawingSystemBackend\\GraphicRoutineManager.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAYwG0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T17:08:58.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\pndia\\Documents\\GitHub\\ZuperZWXDrawingSystem\\ZuperZWXDrawingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "ZuperZWXDrawingSystem\\Program.cs",
+              "ToolTip": "D:\\Users\\pndia\\Documents\\GitHub\\ZuperZWXDrawingSystem\\ZuperZWXDrawingSystem\\Program.cs",
+              "RelativeToolTip": "ZuperZWXDrawingSystem\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T02:09:35.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TableReader.cs",
+              "DocumentMoniker": "D:\\Users\\pndia\\Documents\\GitHub\\ZuperZWXDrawingSystem\\FormatReader\\TableReader.cs",
+              "RelativeDocumentMoniker": "FormatReader\\TableReader.cs",
+              "ToolTip": "D:\\Users\\pndia\\Documents\\GitHub\\ZuperZWXDrawingSystem\\FormatReader\\TableReader.cs",
+              "RelativeToolTip": "FormatReader\\TableReader.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwCUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T15:02:25.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DrawInfoReader.cs",
+              "DocumentMoniker": "D:\\Users\\pndia\\Documents\\GitHub\\ZuperZWXDrawingSystem\\ZuperZWXDrawingSystemBackend\\DrawInfoReader.cs",
+              "RelativeDocumentMoniker": "ZuperZWXDrawingSystemBackend\\DrawInfoReader.cs",
+              "ToolTip": "D:\\Users\\pndia\\Documents\\GitHub\\ZuperZWXDrawingSystem\\ZuperZWXDrawingSystemBackend\\DrawInfoReader.cs",
+              "RelativeToolTip": "ZuperZWXDrawingSystemBackend\\DrawInfoReader.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T23:00:13.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SpriteTileProperties.cs",
+              "DocumentMoniker": "D:\\Users\\pndia\\Documents\\GitHub\\ZuperZWXDrawingSystem\\ZuperZWXDrawingSystemBackend\\SpriteTileProperties.cs",
+              "RelativeDocumentMoniker": "ZuperZWXDrawingSystemBackend\\SpriteTileProperties.cs",
+              "ToolTip": "D:\\Users\\pndia\\Documents\\GitHub\\ZuperZWXDrawingSystem\\ZuperZWXDrawingSystemBackend\\SpriteTileProperties.cs",
+              "RelativeToolTip": "ZuperZWXDrawingSystemBackend\\SpriteTileProperties.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAA4wDYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T23:03:17.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormatReader.csproj",
+              "DocumentMoniker": "D:\\Users\\pndia\\Documents\\GitHub\\ZuperZWXDrawingSystem\\FormatReader\\FormatReader.csproj",
+              "RelativeDocumentMoniker": "FormatReader\\FormatReader.csproj",
+              "ToolTip": "D:\\Users\\pndia\\Documents\\GitHub\\ZuperZWXDrawingSystem\\FormatReader\\FormatReader.csproj",
+              "RelativeToolTip": "FormatReader\\FormatReader.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-14T15:02:03.976Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
